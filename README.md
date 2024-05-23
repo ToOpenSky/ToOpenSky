@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning new things, especially 6G / Next Generation Networking with AI/ML.
 - 💬 Ask me about anything.
 - 📫 How to reach me: by email
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I started learning in Git/Github/AI/ML.
